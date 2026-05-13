@@ -40,7 +40,7 @@ middleware handles everything else.
 ## Installation
 
 ```bash
-pip install langgraph-section-flow
+pip install langgraph-state-machine
 ```
 
 **Requirements:** Python ≥ 3.10, `langchain ≥ 1.0.0`, `langgraph ≥ 0.2.0`
